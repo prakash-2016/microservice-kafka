@@ -1,0 +1,11 @@
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\Shipment.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\events\OrderKafkaListener.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\events\ShipmentDeserializer.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\Item.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\ShippingApp.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\Address.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\ShipmentLine.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\ShipmentRepository.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\web\ShippingController.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\Customer.java
+F:\WS\microservice-kafka-master\microservice-kafka-master\microservice-kafka\microservice-kafka-shipping\src\main\java\com\ewolff\microservice\shipping\ShipmentService.java

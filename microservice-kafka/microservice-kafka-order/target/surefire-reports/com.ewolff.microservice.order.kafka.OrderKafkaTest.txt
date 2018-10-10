@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ewolff.microservice.order.kafka.OrderKafkaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.798 s - in com.ewolff.microservice.order.kafka.OrderKafkaTest
